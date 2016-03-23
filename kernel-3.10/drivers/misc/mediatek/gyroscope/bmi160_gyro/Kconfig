@@ -1,0 +1,4 @@
+
+config MTK_BMG160_GYRO
+	bool "BMG160_GYRO for MediaTek package"
+	default n
